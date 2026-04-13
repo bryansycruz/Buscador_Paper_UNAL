@@ -1,6 +1,6 @@
 # Buscador de Papers Academicos
 
-Coleccion de notebooks para buscar, resumir y descargar papers cientificos desde las principales bases de datos academicas abiertas. Disenado para investigadores que necesitan explorar literatura cientifica sin costo y sin instalar nada en su computador.
+Coleccion de notebooks para buscar, resumir y descargar papers cientificos desde las principales bases de datos academicas abiertas. Diseñado para investigadores que necesitan explorar literatura cientifica sin costo y sin instalar nada en su computador.
 
 ---
 
@@ -8,7 +8,7 @@ Coleccion de notebooks para buscar, resumir y descargar papers cientificos desde
 
 | Notebook | Fuente | Disciplinas | Papers disponibles |
 |---|---|---|---|
-| `arvix.ipynb` | arXiv | Fisica, Matematicas, CS, Economia, Estadistica | +2 millones |
+| `arvix.ipynb` | arXiv | Fisica, Matematicas, CS, Economia, Estadistica, Construcción | +2 millones |
 | `semantic_scholar.ipynb` | Semantic Scholar | Todas las disciplinas | +200 millones |
 | `openalex.ipynb` | OpenAlex | Todas las disciplinas | +250 millones |
 | `pubmed.ipynb` | PubMed / NCBI | Medicina, Biologia, Salud | +36 millones |
