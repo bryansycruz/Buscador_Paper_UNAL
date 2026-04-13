@@ -2,6 +2,8 @@
 
 Coleccion de notebooks para buscar, resumir y descargar papers cientificos desde las principales bases de datos academicas abiertas. Diseñado para investigadores que necesitan explorar literatura cientifica sin costo y sin instalar nada en su computador.
 
+Aporte: Bryan Yamá Cruz
+
 ---
 
 ## Bases de datos disponibles
